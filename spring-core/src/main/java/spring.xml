@@ -4,6 +4,7 @@
    xsi:schemaLocation = "http://www.springframework.org/schema/beans
    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
    
-<bean id="vehicle" class="com.company.bean.Car"></bean>
+<bean id="car" class="com.company.bean.Car"></bean>
+<bean id="bike" class="com.company.bean.Car"></bean>
 
 </beans>
